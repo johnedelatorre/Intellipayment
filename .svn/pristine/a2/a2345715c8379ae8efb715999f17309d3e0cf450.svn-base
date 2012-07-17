@@ -1,0 +1,83 @@
+<section id="mainContent" class="hero homepage">
+  <div id="container" style="width: 100%;">
+    <!--  Outer wrapper for presentation only, this can be anything you like -->
+    <div id="banner" style="height: auto; width: 100%;">
+      <div id="markers">
+        <ol class="infiniteCarousel-markers">
+          <li class="slide-1">
+            <a style="cursor: pointer;">1</a>
+          </li>
+          <li class="slide-2">
+            <a style="cursor: pointer;">2</a>
+          </li>
+          <li class="slide-3">
+            <a style="cursor: pointer;">3</a>
+          </li>
+          <li class="slide-4 active-marker">
+            <a style="cursor: pointer;">4</a>
+          </li>
+        </ol>
+      </div>
+      <ul class="infiniteCarousel" style="height: 393px; width: 1000px;">
+
+        <li style="height: 393px; width: 1000px; display: none;" class="infiniteCarousel-slide">
+          <section class="content wrapper" style="width: 1000px; height: 393px;">
+            <a href="https://community.csc.com/community/cio-engage?ref=hp"> <img alt="CIO Engage:
+            Join our new online community to discuss technologies, trends and strategies.
+            " data-url="http://assets1.csc.com/home/images/hero25_{320:txtsmall,768:txt1}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none; position: absolute; z-index: 99; top: 0px;" src="http://assets1.csc.com/home/images/hero25_txt1.png"> </a>
+            <img alt="Red wing" data-url="http://assets1.csc.com/home/images/wing_{320:1small,768:1}.png" class="wing" src="http://assets1.csc.com/home/images/wing_1.png" style="top: 0px; -moz-transition-property: none; display: block; position: absolute; z-index: 98;">
+          </section>
+          <div class="hero hero-2">
+            <img data-url="http://assets1.csc.com/home/images/hero25_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero25_fg.jpg" style="width: 1000px; height: 393px;">
+            <div class="background"></div>
+          </div>
+        </li>
+
+        <li style="height: 393px; width: 1000px; display: none;" class="infiniteCarousel-slide">
+          <section class="content wrapper" style="width: 1000px; height: 393px;">
+            <a href="/aerospace_defense/insights/85470-new_leaders_emerge_as_a_d_industry_enters_turbulence?ref=hp"> <img alt="Aerospace Industry Plots New Course" data-url="http://assets1.csc.com/home/images/hero24_{320:txtsmall,768:txt}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none;" src="http://assets1.csc.com/home/images/hero24_txt.png"> </a>
+            <img alt="Purple Wing" data-url="http://assets1.csc.com/home/images/wing_{320:2small,768:2}.png" class="wing" src="http://assets1.csc.com/home/images/wing_2.png" style="top: 0px; -moz-transition-property: none; display: block;">
+          </section>
+          <div class="hero hero-3">
+            <img data-url="http://assets1.csc.com/home/images/hero24_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero24_fg.jpg" style="width: 1000px; height: 393px;">
+            <div class="background"></div>
+          </div>
+        </li>
+
+        <li style="height: 393px; width: 1000px; display: none;" class="infiniteCarousel-slide">
+          <section class="content wrapper" style="width: 1000px; height: 393px;">
+            <a href="/cybersecurity/insights/85869-aspiring_to_situational_awareness_in_security?ref=hp"> <img alt="Assessing the Cybersecurity Landscape in a BYOD World" data-url="http://assets1.csc.com/home/images/hero23c_{320:txtsmall,768:txt}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none;" src="http://assets1.csc.com/home/images/hero23c_txt.png"> </a>
+            <img alt="Green Wing" data-url="http://assets1.csc.com/home/images/wing_{320:4small,768:4}.png" class="wing" src="http://assets1.csc.com/home/images/wing_4.png" style="top: 0px; -moz-transition-property: none; display: block;">
+          </section>
+          <div class="hero hero-4">
+            <img data-url="http://assets1.csc.com/home/images/hero23a_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero23a_fg.jpg" style="width: 1000px; height: 393px;">
+            <div class="background"></div>
+          </div>
+        </li>
+
+        <li style="height: 393px; width: 1000px; display: list-item;" class="infiniteCarousel-slide">
+          <section class="content wrapper" style="width: 1000px; height: 393px;">
+            <a href="/success_stories/flxwd/78766-national_grid?ref=hp"> <!-- Image of header copy--> <img alt="national_grid_energizes_it_with_virtualization" data-url="http://assets1.csc.com/home/images/hero22b_{320:txtsmall,768:txt}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none;" src="http://assets1.csc.com/home/images/hero22b_txt.png"> </a>
+            <!-- Image of the slide in colored wing: red, blue, green, purple, etc-->
+            <img alt="Blue Wing" data-url="http://assets1.csc.com/home/images/wing_{320:3small,768:3}.png" class="wing" src="http://assets1.csc.com/home/images/wing_3.png" style="top: 0px; -moz-transition-property: none; display: block;">
+          </section>
+          <div class="hero hero-1">
+            <!-- Main graphic-->
+            <img data-url="http://assets1.csc.com/home/images/hero22_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero22_fg.jpg" style="width: 1000px; height: 393px;">
+            <!-- Background to main graphic to be specified in the homepage.css -->
+            <div class="background"></div>
+          </div>
+        </li>
+
+      </ul>
+      <ul class="infiniteCarousel-controls">
+        <li>
+          <a class="infiniteCarousel-next" style="cursor: pointer; top: 786px;">Next</a>
+        </li>
+        <li>
+          <a class="infiniteCarousel-prev" style="cursor: pointer; top: 786px;">Prev</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>

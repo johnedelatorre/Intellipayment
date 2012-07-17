@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+  <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>IntelliPayment | AutoPay The Intelligent Way.</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <meta name="viewport" content="width=device-width">
+
+    <style type="text/css" media="screen">
+		@font-face {
+			font-family: 'RobotoRegular';
+			src: url('Roboto-Regular-webfont.eot');
+			src: url('Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('Roboto-Regular-webfont.woff') format('woff'), url('Roboto-Regular-webfont.ttf') format('truetype'), url('Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		@font-face {
+			font-family: 'RobotoItalic';
+			src: url('type/Roboto-Italic-webfont.eot');
+			src: url('type/Roboto-Italic-webfont.eot?#iefix') format('embedded-opentype'), url('type/Roboto-Italic-webfont.woff') format('woff'), url('type/Roboto-Italic-webfont.ttf') format('truetype'), url('type/Roboto-Italic-webfont.svg#RobotoItalic') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		@font-face {
+			font-family: 'RobotoBoldCondensed';
+			src: url('type/Roboto-BoldCondensed-webfont.eot');
+			src: url('type/Roboto-BoldCondensed-webfont.eot?#iefix') format('embedded-opentype'), url('type/Roboto-BoldCondensed-webfont.woff') format('woff'), url('type/Roboto-BoldCondensed-webfont.ttf') format('truetype'), url('type/Roboto-BoldCondensed-webfont.svg#RobotoBoldCondensed') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		@font-face {
+			font-family: 'RobotoLight';
+			src: url('type/Roboto-Light-webfont.eot');
+			src: url('type/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'), url('type/Roboto-Light-webfont.woff') format('woff'), url('type/Roboto-Light-webfont.ttf') format('truetype'), url('type/Roboto-Light-webfont.svg#RobotoLight') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		@font-face {
+			font-family: 'RobotoLightItalic';
+			src: url('type/Roboto-LightItalic-webfont.eot');
+			src: url('type/Roboto-LightItalic-webfont.eot?#iefix') format('embedded-opentype'), url('type/Roboto-LightItalic-webfont.woff') format('woff'), url('type/Roboto-LightItalic-webfont.ttf') format('truetype'), url('type/Roboto-LightItalic-webfont.svg#RobotoLightItalic') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		@font-face {
+			font-family: 'RobotoMedium';
+			src: url('type/Roboto-Medium-webfont.eot');
+			src: url('type/Roboto-Medium-webfont.eot?#iefix') format('embedded-opentype'), url('type/Roboto-Medium-webfont.woff') format('woff'), url('type/Roboto-Medium-webfont.ttf') format('truetype'), url('type/Roboto-Medium-webfont.svg#RobotoMedium') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		@font-face {
+			font-family: 'RobotoMediumItalic';
+			src: url('type/Roboto-MediumItalic-webfont.eot');
+			src: url('type/Roboto-MediumItalic-webfont.eot?#iefix') format('embedded-opentype'), url('type/Roboto-MediumItalic-webfont.woff') format('woff'), url('type/Roboto-MediumItalic-webfont.ttf') format('truetype'), url('type/Roboto-MediumItalic-webfont.svg#RobotoMediumItalic') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+    </style>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/libs/modernizr-2.5.3-respond-1.1.0.min.js"></script>
+  </head>
+  <body>
+    <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+    <div id="header-container">
+      <header class="wrapper clearfix logo">
+        <section>
+          <ul>
+            <li>
+              <a href="">User Login</a>
+            </li>
+          </ul>
+        </section>
+        <h1 id="logo"><a href="">IntelliPayment, AutoPay The Intelligent Way.</a></h1>
+        <nav>
+          <ul>
+            <li>
+              <a href="#">Contact Us</a>
+            </li>
+            <li>
+              <a href="#">Customers</a>
+            </li>
+            <li>
+              <a href="#">Dealers</a>
+            </li>
+            <li>
+              <a href="#">How It Works</a>
+            </li>
+            <li>
+              <a href="#">About Us</a>
+            </li>
+            <li>
+              <a href="#">Home</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+    <div id="main-container">
+      <div id="main" class="wrapper clearfix">
+
+        <article>
+          <section id="mainContent" class="hero homepage">
+            <div id="container" style="width: 100%;">
+              <!--  Outer wrapper for presentation only, this can be anything you like -->
+              <div id="banner" style="height: auto; width: 100%;">
+                <div id="markers">
+                  <ol class="infiniteCarousel-markers">
+                    <li class="slide-1">
+                      <a style="cursor: pointer;">1</a>
+                    </li>
+                    <li class="slide-2">
+                      <a style="cursor: pointer;">2</a>
+                    </li>
+                    <li class="slide-3">
+                      <a style="cursor: pointer;">3</a>
+                    </li>
+                    <li class="slide-4 active-marker">
+                      <a style="cursor: pointer;">4</a>
+                    </li>
+                  </ol>
+                </div>
+                <ul class="infiniteCarousel" style="height: 393px; width: 1000px;">
+
+                  <li style="height: 393px; width: 1000px; display: none;" class="infiniteCarousel-slide">
+                    <section class="content wrapper" style="width: 1000px; height: 393px;">
+                      <a href="https://community.csc.com/community/cio-engage?ref=hp"> <img alt="CIO Engage:
+                      Join our new online community to discuss technologies, trends and strategies.
+                      " data-url="http://assets1.csc.com/home/images/hero25_{320:txtsmall,768:txt1}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none; position: absolute; z-index: 99; top: 0px;" src="http://assets1.csc.com/home/images/hero25_txt1.png"> </a>
+                      <img alt="Red wing" data-url="http://assets1.csc.com/home/images/wing_{320:1small,768:1}.png" class="wing" src="http://assets1.csc.com/home/images/wing_1.png" style="top: 0px; -moz-transition-property: none; display: block; position: absolute; z-index: 98;">
+                    </section>
+                    <div class="hero hero-2">
+                      <img data-url="http://assets1.csc.com/home/images/hero25_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero25_fg.jpg" style="width: 1000px; height: 393px;">
+                      <div class="background"></div>
+                    </div>
+                  </li>
+
+                  <li style="height: 393px; width: 1000px; display: none;" class="infiniteCarousel-slide">
+                    <section class="content wrapper" style="width: 1000px; height: 393px;">
+                      <a href="/aerospace_defense/insights/85470-new_leaders_emerge_as_a_d_industry_enters_turbulence?ref=hp"> <img alt="Aerospace Industry Plots New Course" data-url="http://assets1.csc.com/home/images/hero24_{320:txtsmall,768:txt}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none;" src="http://assets1.csc.com/home/images/hero24_txt.png"> </a>
+                      <img alt="Purple Wing" data-url="http://assets1.csc.com/home/images/wing_{320:2small,768:2}.png" class="wing" src="http://assets1.csc.com/home/images/wing_2.png" style="top: 0px; -moz-transition-property: none; display: block;">
+                    </section>
+                    <div class="hero hero-3">
+                      <img data-url="http://assets1.csc.com/home/images/hero24_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero24_fg.jpg" style="width: 1000px; height: 393px;">
+                      <div class="background"></div>
+                    </div>
+                  </li>
+
+                  <li style="height: 393px; width: 1000px; display: none;" class="infiniteCarousel-slide">
+                    <section class="content wrapper" style="width: 1000px; height: 393px;">
+                      <a href="/cybersecurity/insights/85869-aspiring_to_situational_awareness_in_security?ref=hp"> <img alt="Assessing the Cybersecurity Landscape in a BYOD World" data-url="http://assets1.csc.com/home/images/hero23c_{320:txtsmall,768:txt}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none;" src="http://assets1.csc.com/home/images/hero23c_txt.png"> </a>
+                      <img alt="Green Wing" data-url="http://assets1.csc.com/home/images/wing_{320:4small,768:4}.png" class="wing" src="http://assets1.csc.com/home/images/wing_4.png" style="top: 0px; -moz-transition-property: none; display: block;">
+                    </section>
+                    <div class="hero hero-4">
+                      <img data-url="http://assets1.csc.com/home/images/hero23a_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero23a_fg.jpg" style="width: 1000px; height: 393px;">
+                      <div class="background"></div>
+                    </div>
+                  </li>
+
+                  <li style="height: 393px; width: 1000px; display: list-item;" class="infiniteCarousel-slide">
+                    <section class="content wrapper" style="width: 1000px; height: 393px;">
+                      <a href="/success_stories/flxwd/78766-national_grid?ref=hp"> <!-- Image of header copy--> <img alt="national_grid_energizes_it_with_virtualization" data-url="http://assets1.csc.com/home/images/hero22b_{320:txtsmall,768:txt}.png" class="copy" style="display: block; width: 1000px; height: 393px; bottom: 0px; -moz-transition-property: none;" src="http://assets1.csc.com/home/images/hero22b_txt.png"> </a>
+                      <!-- Image of the slide in colored wing: red, blue, green, purple, etc-->
+                      <img alt="Blue Wing" data-url="http://assets1.csc.com/home/images/wing_{320:3small,768:3}.png" class="wing" src="http://assets1.csc.com/home/images/wing_3.png" style="top: 0px; -moz-transition-property: none; display: block;">
+                    </section>
+                    <div class="hero hero-1">
+                      <!-- Main graphic-->
+                      <img data-url="http://assets1.csc.com/home/images/hero22_{320:fgsmall,768:fg}.jpg" class="foreground" src="http://assets1.csc.com/home/images/hero22_fg.jpg" style="width: 1000px; height: 393px;">
+                      <!-- Background to main graphic to be specified in the homepage.css -->
+                      <div class="background"></div>
+                    </div>
+                  </li>
+
+                </ul>
+                <ul class="infiniteCarousel-controls">
+                  <li>
+                    <a class="infiniteCarousel-next" style="cursor: pointer; top: 786px;">Next</a>
+                  </li>
+                  <li>
+                    <a class="infiniteCarousel-prev" style="cursor: pointer; top: 786px;">Prev</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+        </article>
+
+        <aside>
+          <h3><strong>IntelliPayment</strong> Advantage</h3>
+          <p>
+            <span class="ipGreen">Intelli</span><span class="ipBlue">Payment®</span> is the automobile industry's leader in financial payment acceleration products. Our state of the art payment processing center is on the forefront of innovation, ensuring that our customers get the highest degree of efficiency, timeliness, and accuracy. With the most highly educated and experienced customer support teams in the industry, we work relentlessly to maintain a customer satisfaction level which is second to none. Our extensive experience with high volume transactional payment plans gives us a distinct advantage and is the main reason why IntelliPayment® is AutoPay The Intelligent Way©
+          </p>
+        </aside>
+
+        <div id="footer-container" class="footer-img">
+          <footer class="wrapper car">
+            <ul>
+              <li class="active">
+                <a href="#">Home</a>
+              </li>
+              <li>
+                <a href="#">About Us</a>
+              </li>
+              <li>
+                <a href="#">How It Works</a>
+              </li>
+              <li>
+                <a href="#">Dealers</a>
+              </li>
+              <li>
+                <a href="#">Customers</a>
+              </li>
+              <li>
+                <a href="#">Contact Us</a>
+              </li>
+            </ul>
+            <p class="copyright">
+              &copy; Copyright 2012 IntelliPayment, LLC. All rights reserved.
+            </p>
+          </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>
+			window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')
+        </script>
+
+        <script src="js/plugins.js"></script>
+        <script src="js/script.js"></script>
+        <script>
+			var _gaq = [['_setAccount', 'UA-XXXXX-X'], ['_trackPageview']]; ( function(d, t) {
+					var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+					g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+					s.parentNode.insertBefore(g, s)
+				}(document, 'script'));
+        </script>
+
+  </body>
+</html>
